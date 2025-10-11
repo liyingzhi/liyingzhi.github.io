@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Fly-Lilee 的博客</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://liyingzhi.github.io/posts/</link>
     <description>Recent content in Posts on Fly-Lilee 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>© 2025 Fly-Lilee</copyright>
-    <lastBuildDate>Sat, 11 Oct 2025 14:12:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 11 Oct 2025 14:12:00 +0800</lastBuildDate><atom:link href="https://liyingzhi.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>hugo-test-link</title>
-      <link>http://localhost:1313/posts/2025/10/20251011t141201--hugo-test-link__post/</link>
+      <link>https://liyingzhi.github.io/posts/2025/10/20251011t141201--hugo-test-link__post/</link>
       <pubDate>Sat, 11 Oct 2025 14:12:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/10/20251011t141201--hugo-test-link__post/</guid>
+      <guid>https://liyingzhi.github.io/posts/2025/10/20251011t141201--hugo-test-link__post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>hugo-test</title>
-      <link>http://localhost:1313/posts/2025/10/20251011t123853--hugo-test__post/</link>
+      <link>https://liyingzhi.github.io/posts/2025/10/20251011t123853--hugo-test__post/</link>
       <pubDate>Sat, 11 Oct 2025 12:38:00 +0800</pubDate>
       
-      <guid>http://localhost:1313/posts/2025/10/20251011t123853--hugo-test__post/</guid>
+      <guid>https://liyingzhi.github.io/posts/2025/10/20251011t123853--hugo-test__post/</guid>
       <description></description>
       
     </item>
