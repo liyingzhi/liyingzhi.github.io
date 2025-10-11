@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://liyingzhi.github.io/</loc>
-    <lastmod>2025-10-11T12:45:05+08:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-11T13:21:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
     <xhtml:link
       rel="alternate"
       hreflang="en"
-      href="https://liyingzhi.github.io/en/"
+      href="http://localhost:1313/en/"
     />
     <xhtml:link
       rel="alternate"
       hreflang="zh-cn"
-      href="https://liyingzhi.github.io/"
+      href="http://localhost:1313/"
     />
   </url>
   <url>
-    <loc>https://liyingzhi.github.io/posts/2025/10/20251011t123853--hugo-test__post/</loc>
-    <lastmod>2025-10-11T12:45:05+08:00</lastmod>
+    <loc>http://localhost:1313/posts/2025/10/20251011t123853--hugo-test__post/</loc>
+    <lastmod>2025-10-11T13:21:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://liyingzhi.github.io/posts/</loc>
-    <lastmod>2025-10-11T12:45:05+08:00</lastmod>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-11T13:21:00+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

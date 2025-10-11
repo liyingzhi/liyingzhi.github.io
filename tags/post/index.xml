@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on Blowfish</title>
+    <title>Post on Fly-Lilee 的博客</title>
     <link>https://liyingzhi.github.io/tags/post/</link>
-    <description>Recent content in Post on Blowfish</description>
+    <description>Recent content in Post on Fly-Lilee 的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
-    <copyright>© 2025 Ly</copyright>
-    <lastBuildDate>Sat, 11 Oct 2025 12:38:00 +0800</lastBuildDate><atom:link href="https://liyingzhi.github.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2025 Fly-Lilee</copyright>
+    <lastBuildDate>Sat, 11 Oct 2025 14:12:00 +0800</lastBuildDate><atom:link href="https://liyingzhi.github.io/tags/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>hugo-test-link</title>
+      <link>https://liyingzhi.github.io/posts/2025/10/20251011t141201--hugo-test-link__post/</link>
+      <pubDate>Sat, 11 Oct 2025 14:12:00 +0800</pubDate>
+      
+      <guid>https://liyingzhi.github.io/posts/2025/10/20251011t141201--hugo-test-link__post/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>hugo-test</title>
